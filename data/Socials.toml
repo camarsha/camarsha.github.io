@@ -1,0 +1,17 @@
+# For the `icon`, see SVG.toml
+
+
+[[socials]]
+    id = "email"
+    url = "camarsha@unc.edu"
+    icon = "envelope"
+    title = "Email"
+    weight = 1
+
+[[socials]]
+    id = "github"
+    url = "https://github.com/camarsha"
+    icon = "github"
+    title = "GitHub"
+    weight = 2
+
